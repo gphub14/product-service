@@ -1,0 +1,10 @@
+#spring:
+#  datasource: 
+#    username: root
+#    password: rootGG$$2024
+#    url: jdbc:mysal://localhost3306/crud_db
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
